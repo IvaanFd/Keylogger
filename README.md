@@ -10,3 +10,5 @@ Firstly it performs a quick scan of the open ports on the target IP, secondly, i
 
 * Pyfiglet: pip install pyfiglet
 * Keyborad: pip install keyboard
+
+# Execution
